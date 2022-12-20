@@ -12,7 +12,7 @@ class Contact extends StatelessWidget {
       body: Center(
         child: Text(
           'You are in Contact Page!',
-          style: TextStyle(fontSize: 25),
+          style: TextStyle(fontSize: 28),
         ),
       ),
     );
